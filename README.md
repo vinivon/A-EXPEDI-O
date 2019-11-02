@@ -1,0 +1,2 @@
+# A-EXPEDI-O
+O jogo tem o intuito de desenvolver habilidades na área de ciencias e principalmente voltado para física, onde o aluno irá aprender sobre: - As Leis de Kepler; - O nosso sistema solar; - Campo gravitacional; - As camadas que envolvem a Terra (mesosfera, estratosfera...); - Unidades e termos astronômicos (anos-luz, parsec...); Além de outros aprendizados de maneira divertida para que o aluno se interesse e estude sobre o assunto.
